@@ -15,7 +15,7 @@ I'm an all-things developer, designer, explorer, and spend most of my time makin
 # favourite projects
 [![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=Rackover&repo=Parchment&theme=tokyonight)](https://github.com/Rackover/Parchment)
 [![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=Rackover&repo=xvy&theme=dark)](https://github.com/Rackover/xvy)
-[![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=StrikeVectorCommunity&repo=strike-vector-proxima&theme=tokyonight)](https://github.com/StrikeVectorCommunity/strike-vector-proxima)
+[![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=iw4x&repo=iw4x-client&theme=tokyonight)](https://github.com/iw4x/iw4x-client)
 [![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=iw4x&repo=dexilifier&theme=dark)](https://github.com/iw4x/dexilifier)
 [![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=Rackover&repo=ADVNTURE&theme=dark)](https://github.com/Rackover/ADVNTURE)
 [![ReadMe Card](https://github-readme-stats-sable-eight-63.vercel.app/api/pin/?username=Rackover&repo=ASSEMBLY&theme=tokyonight)](https://github.com/Rackover/assembly)
